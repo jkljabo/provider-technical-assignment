@@ -11,3 +11,5 @@ All application logic, database schema, and optional frontend enhancements
 are expected to be implemented by the candidate.
 
 Refer to the Assignment document for full requirements.
+
+Initial Commitment Test.
